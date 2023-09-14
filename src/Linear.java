@@ -1,7 +1,7 @@
 public class Linear {
     public static void main(String[] args){
         int[] arr = {1,2,3,4,5};
-        String[] names = {"Jonathan", "Brinanna", "Xander"};
+        String[] names = {"Jonathan", "Brianna", "Xander"};
         // linear1(arr);
         // linear2(arr);
         linear3(arr, names);
